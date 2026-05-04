@@ -35,5 +35,5 @@ export function getPrice(types) {
   return max.toFixed(2)
 }
 
-// Tu PayPal Sandbox Client ID — reemplaza con el tuyo desde developer.paypal.com
+// Tu PayPal Sandbox Client ID 
 export const PAYPAL_CLIENT_ID = 'AZDxjDScFpQtjWTOUtWKbyN_bDt4OgqaF4fYMSG7JXTJ9N3WXID1jHkP-3MNYI4Pl17BKkCVoGqEb1M'

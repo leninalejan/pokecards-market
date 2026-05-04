@@ -1,0 +1,28 @@
+.badge {
+  font-size: 0.62rem;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 999px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-family: 'Space Mono', monospace;
+}
+
+.fire     { background: rgba(255,68,0,0.15);   color: #FF6B35; }
+.water    { background: rgba(47,128,237,0.15);  color: #60A5FA; }
+.grass    { background: rgba(34,197,94,0.15);   color: #4ADE80; }
+.electric { background: rgba(255,217,61,0.15);  color: #FCD34D; }
+.psychic  { background: rgba(236,72,153,0.15);  color: #F472B6; }
+.ice      { background: rgba(147,197,253,0.15); color: #93C5FD; }
+.dragon   { background: rgba(109,40,217,0.15);  color: #A78BFA; }
+.dark     { background: rgba(30,30,30,0.5);     color: #94A3B8; }
+.fairy    { background: rgba(251,113,133,0.15); color: #FB7185; }
+.fighting { background: rgba(239,68,68,0.15);   color: #F87171; }
+.poison   { background: rgba(139,92,246,0.15);  color: #C084FC; }
+.ground   { background: rgba(180,120,60,0.15);  color: #D4A76A; }
+.rock     { background: rgba(120,110,80,0.15);  color: #A8A07A; }
+.bug      { background: rgba(101,163,13,0.15);  color: #A3E635; }
+.ghost    { background: rgba(88,28,135,0.15);   color: #C084FC; }
+.steel    { background: rgba(148,163,184,0.15); color: #94A3B8; }
+.flying   { background: rgba(125,211,252,0.15); color: #7DD3FC; }
+.normal   { background: rgba(148,163,184,0.1);  color: #94A3B8; }
